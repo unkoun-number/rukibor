@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /rukibot/Dockerfile
+      worker: /rukibor/Dockerfile
 run:
    worker: npm start
